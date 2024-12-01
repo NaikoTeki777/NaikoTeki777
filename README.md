@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ka-Wone Mitchell
-- 👀 I’m interested in Computer technology 
-- 🌱 I’m currently learning cybersecurity
+- 👀 I’m interested in software enginering 
+- 🌱 I’m currently learning HTML
 - 📫 How to reach me revampz777@gmail.com
 
 <!---
